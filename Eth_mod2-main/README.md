@@ -175,7 +175,7 @@ function getName() public view returns(string memory)
 For detailed debugging and assistance, refer to the Hardhat documentation or community forums.
 
 ## Authors
-  [Vaibhavi Sherya]
+  [Anushka Kumari] anushka.ak29@gmail.com
+  8168563516
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
