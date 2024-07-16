@@ -4,7 +4,7 @@ pragma solidity ^0.8.9;
 contract Supermarket {
     mapping(address => uint256) public bonusCoins;
     uint256 public discountThreshold = 10; 
-    string public customerName = "Vaibhavi Shreya";
+    string public customerName = "Anushka kumari";
     uint256 public newprice ;
     uint256 public funds;
     uint public supercoins;
